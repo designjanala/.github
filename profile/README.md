@@ -1,73 +1,93 @@
+
 <div align="center">
 
-# DESIGNJANALA
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:2563EB&height=220&section=header&text=DesignJanala&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Design%20%7C%20Engineering%20%7C%20AI&descAlignY=60&descSize=18" width="100%" />
 
-### We turn ideas into digital experiences.
+### Building AI-Powered Products That People Love.
 
-**Design. Develop. Innovate.**
+**AI-Powered Product Design & Development Agency**
 
-A technology-focused team building thoughtful websites, scalable software, and intelligent digital solutions.
+Design-led thinking. Engineering excellence. AI-enabled innovation.
+
+[![Website](https://img.shields.io/badge/EXPLORE_WEBSITE-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://designjanala.vercel.app/)
+[![Email](https://img.shields.io/badge/START_A_PROJECT-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:project@designjanala.com)
 
 <br/>
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-[Explore our repositories](https://github.com/Designjanala) · **Open to collaboration**
+![Product Engineering](https://img.shields.io/badge/FOCUS-Product_Engineering-7C3AED?style=flat-square)
+![AI Enhanced](https://img.shields.io/badge/APPROACH-AI_Enhanced-0EA5E9?style=flat-square)
+![Location](https://img.shields.io/badge/LOCATION-Dhaka_Bangladesh-14B8A6?style=flat-square)
 
 </div>
 
 ---
 
-## ✦ About Us
+## ✦ Who We Are
 
-Designjanala is a digital development organization focused on creating reliable, accessible, and scalable technology.
+**DesignJanala** is a product design and development agency based in Dhaka, Bangladesh.
 
-We bring together **creative thinking, modern engineering, and practical problem-solving** to help turn ideas into useful digital products.
+We partner with startups, founders, and businesses to transform ambitious ideas into intuitive digital experiences and scalable software.
 
-## What We Do
+From product strategy and UI/UX design to engineering, AI integration, and quality assurance, we bring the complete product journey together.
+
+> Great technology should feel simple to use, reliable to run, and ready to grow.
+
+## ✦ What We Do
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Web Development</h3>
-      Responsive websites, custom web applications, and performance-focused digital experiences.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧩 WordPress & E-commerce</h3>
-      Custom themes, plugins, WooCommerce solutions, and content-driven platforms.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚙️ Software & Integrations</h3>
-      Business applications, REST APIs, third-party integrations, and scalable backend systems.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 AI & Automation</h3>
-      AI-enabled workflows, intelligent tools, and automation for everyday business operations.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎨 UI/UX Implementation</h3>
-      Design-to-code development with attention to usability, consistency, and responsive behavior.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ Quality Engineering</h3>
-      Practical testing, debugging, and quality-focused development workflows.
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Product & Web Engineering
+
+- SaaS platforms
+- Web applications
+- Custom software
+- Backend engineering
+- API development
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ AI & Automation
+
+- AI agents
+- LLM integrations
+- RAG solutions
+- Intelligent automation
+- AI-powered applications
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Product Design
+
+- UI/UX design
+- Product strategy
+- Design systems
+- Prototyping
+- Brand identity
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Quality & Growth
+
+- MVP development
+- Manual & automated QA
+- Performance optimization
+- Product modernization
+- Technical support
+
+</td>
+</tr>
 </table>
 
-## Technology We Work With
+## ✦ Technology Ecosystem
 
-<div align="center">
-
-**Frontend**
+**Frontend & Experience**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -75,18 +95,17 @@ We bring together **creative thinking, modern engineering, and practical problem
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend & CMS**
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
 ![Webflow](https://img.shields.io/badge/Webflow-146EF5?style=flat-square&logo=webflow&logoColor=white)
 
-**Data & Infrastructure**
+**Database & Infrastructure**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -94,32 +113,77 @@ We bring together **creative thinking, modern engineering, and practical problem
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-</div>
+**Design & Collaboration**
 
-## Our Principles
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![FigJam](https://img.shields.io/badge/FigJam-000000?style=flat-square&logo=figma&logoColor=white)
 
-| Principle | What it means |
-|:--|:--|
-| **Build with purpose** | Solve real problems with practical technology. |
-| **Quality by design** | Prioritize maintainability, performance, and usability. |
-| **Keep learning** | Adopt better tools and improve our engineering practices. |
-| **Work together** | Share knowledge and build through collaboration. |
+## ✦ AI-Enhanced Engineering
 
-## Collaboration
+AI is part of our workflow across discovery, design, development, and testing.
 
-Have an idea, a project, or an open-source contribution in mind?
+- AI-assisted research and requirement analysis
+- Rapid concept exploration and prototyping
+- AI-assisted development with human code review
+- LLM-powered product features
+- Automated testing and quality engineering
+- Intelligent business workflow automation
 
-We welcome conversations with developers, designers, and teams who care about building useful digital products.
+## ✦ Our Development Process
+
+```mermaid
+flowchart LR
+    A["01 Discover"] --> B["02 Define"]
+    B --> C["03 Design"]
+    C --> D["04 Build"]
+    D --> E["05 Validate"]
+    E --> F["06 Launch & Evolve"]
+```
+
+| Phase | Objective |
+|---|---|
+| Discover | Understand users and business goals |
+| Define | Establish scope and architecture |
+| Design | Create intuitive experiences |
+| Build | Develop production-ready products |
+| Validate | Test functionality and quality |
+| Evolve | Launch, monitor, and improve |
+
+## ✦ Industries We Serve
+
+- SaaS & Startups
+- Fintech
+- Healthcare
+- E-commerce
+- Real Estate
+- Education
+- Logistics
+- Media & Publishing
+
+## ✦ Our Principles
+
+- **Product First** — Solve real-world problems.
+- **Design Excellence** — Create meaningful experiences.
+- **Engineering Quality** — Build reliable and maintainable systems.
+- **AI Innovation** — Use AI to accelerate product development.
+- **Scalability** — Build for long-term growth.
+- **Collaboration** — Grow through transparency and teamwork.
+
+---
 
 <div align="center">
 
-### Let's build something meaningful.
+## Have an Idea Worth Building?
 
-[![GitHub](https://img.shields.io/badge/Explore_Our_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Designjanala)
+Let's turn your vision into a powerful digital product.
 
-<br/>
+[![Visit Website](https://img.shields.io/badge/VISIT_DESIGNJANALA-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://designjanala.vercel.app/)
+[![Contact Us](https://img.shields.io/badge/LET'S_TALK-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:project@designjanala.com)
 
-**DESIGNJANALA**  
-*Building digital experiences with purpose.*
+**DesignJanala** · Dhaka, Bangladesh
+
+*From Ideas to Products. Powered by Design, Engineering & AI.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:312E81,100:0F172A&height=110&section=footer" width="100%" />
 
 </div>
